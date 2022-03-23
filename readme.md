@@ -23,7 +23,7 @@
 ### 在线快速体验
 
 - 通过阿里云 **Serverless 应用中心**： 可以点击 [【🚀 部署】](https://fcnext.console.aliyun.com/applications/create?template=start-django) ，按照引导填入参数，快速进行部署和体验。
-
+2
 ### 在本地部署体验
 
 1. 下载安装 Serverless Devs：`npm install @serverless-devs/s` 
