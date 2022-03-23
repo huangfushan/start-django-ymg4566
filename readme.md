@@ -28,7 +28,7 @@
 
 1. 下载安装 Serverless Devs：`npm install @serverless-devs/s` 
     > 详细文档可以参考 [Serverless Devs 安装文档](https://github.com/Serverless-Devs/Serverless-Devs/blob/master/docs/zh/install.md)
-2. 配置密钥信息：`s config add`
+2. 配置密钥信息：`s config add`s
     > 详细文档可以参考 [阿里云密钥配置文档](https://github.com/devsapp/fc/blob/main/docs/zh/config.md)
 3. 初始化项目：`s init start-django -d start-django`
 4. 进入项目并部署：`cd start-django && s deploy`
